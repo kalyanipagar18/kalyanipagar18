@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalyani Pagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Hardworking software developer</h3>
 <img align="right" alt="coding" height=200 width=250 src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
 
 - 🔭 I’m currently working on **Databases such as SQL,MongoDB**

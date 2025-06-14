@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kalyani Pagar</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanipagar18&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanipagar18" /> </p>
 
-- 🔭 I’m currently working on **Databases, Frameworks**
-
-- 🌱 I’m currently learning **Framewroks**
+- 🔭 I’m currently working on **Frameworks**
 
 - 👯 I’m looking to collaborate on **Backend**
 
-- 💬 Ask me about **OOP,Ui/Ux,Front-end**
+- 💬 Ask me about **OOP,Java,Front-end**
 
 - 📫 How to reach me **kalyanipagar007@gmail.com**
 
